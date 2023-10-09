@@ -10,7 +10,7 @@ export default function Headercard() {
 
     <div className="grid lg:grid-cols-3 gap-5 mb-16">
       <div className="rounded bg-red-700 h-40 shadow-sm outline outline-offset-0 outline-black-400">
-        <h1 className="text-4xl	text-center mt-5	"> Students</h1>
+        <h1 className="text-4xl	text-center mt-5	"> zubair</h1>
         <h1 className="text-center mt-5 	 text-3xl">145.13k</h1>
         <BsGraphUp className=" text-3xl mt-2 ms-32"/>
       </div>
